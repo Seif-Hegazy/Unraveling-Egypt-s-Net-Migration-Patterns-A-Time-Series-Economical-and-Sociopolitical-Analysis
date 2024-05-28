@@ -103,5 +103,5 @@ For any questions or further information, please contact the authors at:
 - Seif Hegazy: 22-101049@students.eui.edu.eg
 - Shady Ali: 22-101195@students.eui.edu.eg
 - 
-![Grp photo](Grp pic.jpg)
+![Grp photo]([GRPpic.jpg)
 
