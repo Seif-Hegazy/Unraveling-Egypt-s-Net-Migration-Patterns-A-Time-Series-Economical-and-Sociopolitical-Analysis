@@ -100,7 +100,7 @@ The study concludes that Egypt’s net migration can be predicted with a reasona
 For any questions or further information, please contact the authors at:
 
 - Ramzy Bakir: ramzybakir.rsb@gmail.com
-- Seif Hegazy: 22-101049@students.eui.edu.eg
+- Seif Hegazy: seifhegazy2003@gmail.com
 - Shady Ali: 22-101195@students.eui.edu.eg
 
 
